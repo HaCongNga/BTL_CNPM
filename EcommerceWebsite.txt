@@ -1,0 +1,19 @@
+Website đọc sách: Các chức năng dự định làm
+1) Chức năng đăng ký thành viên
+2) Chức năng đăng ký thành viên vip
+3) Chức năng đăng nhập
+4) Chức năng thêm vào mục yêu thích
+5) Chức năng đọc tài liệu VIP
+6) Chức năng tìm kiếm sách
+7) Chức năng đọc tài liệu/sách thường
+8) Chức năng bình luận trên website
+9) Chức năng xem chi tiết tài liệu yêu thích
+10) Chức năng đăng xuất
+
+Tuần 09: Xong giao diện cơ bản + chức năng đăng ký, đăng nhập, Tài liệu cơ bản
+Tuần 10: Thêm 4 chức năng , chỉnh sửa giao diện, chỉnh sửa tài liệu
+Tuần 11: Như trên
+Tuần 12: Tiếp tục làm như trên nếu chưa hoàn thành
+
+
+
