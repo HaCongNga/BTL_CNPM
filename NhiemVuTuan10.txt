@@ -1,0 +1,26 @@
+Anh Chiến: Ưu tiên làm nhiệm vụ 1 trước.
+1. Làm Form Submit Đăng ký: Kết nối với database,
+khi người dùng đăng ký hợp lệ (có thông báo Good Jobs ...) thì data đó 
+được insert vào database. 
+Tham khảo: https://www.youtube.com/watch?v=F8Ke30Dqq0g
+https://www.youtube.com/watch?v=Y9yE98etanU
+Chú ý: Form đã đc css, để ý phần đặt file và kết nối.
+Lấy file Form đã css tại github folder cùng tên.
+2. Hoàn thiện nút ĐĂNG KÝ, ĐĂNG NHẬP
+3. Format mẫu (làm mẫu, sau này có sách cứ thế lắp vào là xong) các thẻ cho 1 quyển sách. 
+1 thẻ cho 1 quyển sách bao gồm: Ảnh của sách,tên của sách, 2 nút: Xem tài liệu và Thêm vào yêu thích. 
+1 hàng sẽ có 3 quyển sách.
+1 trang "Tài liệu" sẽ hiện ra 2 hàng = 6 sách. 
+
+
+
+Anh Phương: Làm 2 folders.
++ Folder 1: 18 quyển sách, mỗi quyển 1 folder gồm tên sách, nội dung pdf.
++ Folder 2 (vinhdanh): 6 folder gồm ảnh và file txt trong đó là cảm xúc khi học
++ Có thể kết hợp để làm file đặc tả.
+
+Tuấn: Edit file đặc tả cho đúng chủ đề: Website hỗ trợ học tập online.
+
+
+
+
