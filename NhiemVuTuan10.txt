@@ -18,6 +18,7 @@ Anh Phương: Làm 2 folders.
 + Folder 1: 18 quyển sách, mỗi quyển 1 folder gồm tên sách, nội dung pdf.
 + Folder 2 (vinhdanh): 6 folder gồm ảnh và file txt trong đó là cảm xúc khi học
 + Có thể kết hợp để làm file đặc tả.
++ Tham khảo: https://cmath.edu.vn/thanh-tich-hoc-sinh/
 
 Tuấn: Edit file đặc tả cho đúng chủ đề: Website hỗ trợ học tập online.
 
